@@ -1,4 +1,4 @@
-I made a pokedex using next js SSG(static site generator), dynamic routing  , with typescript , nivo bar & react table .
+I made a pokedex using next js SSG(static site generator), dynamic routing  , with typescript, tailwindcss , nivo bar , react table & fully responsive for mobile to desktop .
 ![Screenshot (86)](https://github.com/Ahmed-2909/Pokemon_nivo/assets/127951902/73dd7186-5e0b-46b0-a85f-82c148e65139)
 ![Screenshot (93)](https://github.com/Ahmed-2909/Pokemon_nivo/assets/127951902/4d86f871-e273-445c-bbfb-d5870f520c41)
 ![Screenshot (87)](https://github.com/Ahmed-2909/Pokemon_nivo/assets/127951902/0894f448-8490-4a56-85f6-b9030a668565)
