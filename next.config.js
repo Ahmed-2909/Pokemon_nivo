@@ -8,18 +8,5 @@ const nextConfig = {
 
 module.exports = nextConfig
 
-// const withTM = require('next-transpile-modules')(['d3-color']);
-
-// module.exports = withTM({
-//   webpack: (config) => {
-//     config.module.rules.push({
-//       test: /\.mjs$/,
-//       include: /node_modules/,
-//       type: 'javascript/auto',
-//     });
-
-//     return config;
-//   },
-// });
 
 
